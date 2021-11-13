@@ -1,10 +1,10 @@
 <div background-color="white" width="100px">
     <a background-color="white"; href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </div>
-![Capturar](https://user-images.githubusercontent.com/83086549/141600524-da6fbd69-948c-4760-a153-9bc3fcee5724.PNG)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Julio</h1>
-<h3 align="center">I'm a passionate embedded system engineer Brazil.</h3>
+<h3 align="center">I'm a passionate embedded system engineer from Brazil.</h3>
 
 
 

@@ -3,7 +3,7 @@
 <h1 align="center">There is no spoon</h1>
 
 # Hey!
-I'm Julio, a passionate embedded system engineer from Brazil.
+:pushpin: I'm Julio, a passionate embedded system engineer from Brazil.
 
 
 ## Skills

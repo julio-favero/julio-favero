@@ -33,5 +33,5 @@ const anmol = {
 
 ## Contact
 - emailto: [jfavmir](jfavmir@gmail.com) 
-- linkedin: [@julio-favero](#)
+- linkedin: [@julio_favero_miranda](#)
 - discord: [jfm#3852](./)

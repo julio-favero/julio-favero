@@ -1,6 +1,6 @@
 
 # Hey!
-I'm Julio, a a passionate embedded system engineer from Brazil.
+I'm Julio, a passionate embedded system engineer from Brazil.
 
 
 ## Skills
@@ -32,6 +32,6 @@ const anmol = {
 ```
 
 ## Contact
-- [emailto](jfavmir@gmail.com)
-- [@julio-favero](#) on Linkedin
-- [jfm#3852](./) on Discord
+- emailto: [jfavmir](jfavmir@gmail.com) 
+- linkedin: [@julio-favero](#)
+- discord: [jfm#3852](./)
